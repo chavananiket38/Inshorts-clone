@@ -1,5 +1,7 @@
 ### [Live Project](https://chavananiket38.github.io/Inshorts-clone/) <- click here
 
+![inshorts-clone](https://ibb.co/9VTLPd2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

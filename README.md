@@ -1,6 +1,6 @@
 ### [Live Project](https://chavananiket38.github.io/Inshorts-clone/) <- click here
 
-![inshorts-clone](https://ibb.co/9VTLPd2)
+![inshorts-clone](https://i.ibb.co/CM7ZLSv/Screenshot-9.png)
 
 # Getting Started with Create React App
 

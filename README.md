@@ -1,4 +1,4 @@
-### [Live Project] (https://chavananiket38.github.io/Inshorts-clone/) <- click here
+### [Live Project](https://chavananiket38.github.io/Inshorts-clone/) <- click here
 
 # Getting Started with Create React App
 

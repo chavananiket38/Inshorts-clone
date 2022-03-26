@@ -1,6 +1,4 @@
-# Live Website Link of Project
-
-https://chavananiket38.github.io/Inshorts-clone/
+### [Live Project] (https://chavananiket38.github.io/Inshorts-clone/) <- click here
 
 # Getting Started with Create React App
 
